@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Product Manager from Brazil.</h3>
 
 
-- 🔭 I am a Product Manager by EBAC and a Trybe student.
+- 🔭 I am a Product Manager by EBAC with a strong Business Development Background.
 - 🌱 I am a student at Trybe and I am currently working on backend (Node.js and TypeScript) projects.
-- 👯 I love Business Development and Sales. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX and UI and I always start my projects with a FIGMA prototype.
+- 👯 I love Sales and User Experience. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX, UI and I always start my projects with a FIGMA prototype before testing.
 - 💬 Ask me about **UX, UI, CSS, React, JavaScript, Wordpress**
 - 📫 How to reach me: **izabelaguarino@gmail.com**
-- 📄 I have 10+ years experience with Wordpress. Know about my experiences [https://belaguarino.github.io/](https://belaguarino.github.io/)
+- 📄 I have 10+ years experience with Wordpress and Adobe Design Softwares. Know about my experiences [https://belaguarino.github.io/](https://belaguarino.github.io/)
 - 😄 Pronouns: Her / She
 - 🤝 I’m looking for help with **TypeScript**
-- ⚡ Fun fact: I love crochet
+- ⚡ Fun fact: I am extremely curious. With my sales & BizDev backgrounds, I learned to stay humble and ask the right questions. I speak Portuguese, English, Spanish, French and a little bit of Japanese.
 
 ##
 
