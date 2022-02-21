@@ -3,7 +3,6 @@
 - 🔭 I am a Product Manager by EBAC and a 
 - 🌱 I am a student at Trybe and I am currently working on backend (Node.js and TypeScript) projects.
 - 👯 I love Business Development and Sales. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX and UI and I always start my projects with a FIGMA prototype.
-- 🤔 I’m looking for help with ...
 - 💬 You can ask me about User Interface, User experience and how to create the perfect sales pitch to your product.
 - 📫 How to reach me: izabelaguarino@gmail.com
 - 😄 Pronouns: Her / She
