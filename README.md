@@ -1,17 +1,23 @@
-### Hi, I'm Izabela. 👋
+  <h1 align="center">Hi 👋, I'm Izabela!</h1>
+<h3 align="center">A passionate Product Manager from Brazil.</h3>
+
 
 - 🔭 I am a Product Manager by EBAC and a Trybe student.
 - 🌱 I am a student at Trybe and I am currently working on backend (Node.js and TypeScript) projects.
 - 👯 I love Business Development and Sales. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX and UI and I always start my projects with a FIGMA prototype.
-- 💬 You can ask me about User Interface, User experience and how to create the perfect sales pitch to your product.
-- 📫 How to reach me: izabelaguarino@gmail.com
+- 💬 Ask me about **UX, UI, CSS, React, JavaScript, Wordpress**
+- 📫 How to reach me: **izabelaguarino@gmail.com**
+- 📄 I have 10+ years experience with Wordpress. Know about my experiences [https://belaguarino.github.io/](https://belaguarino.github.io/)
 - 😄 Pronouns: Her / She
+- 🤝 I’m looking for help with **TypeScript**
 - ⚡ Fun fact: I love crochet
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="WallacyFrancis-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<div align="center"><br>
+    <img align="center" alt="IzabelaGuarino-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img align="center" alt="IzabelaGuarino-WooC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
+  <img align="center" alt="IzabelaGuarino-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="IzabelaGuarino-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="IzabelaGuarino-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="IzabelaGuarino-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -19,6 +25,10 @@
   <img align="center" alt="IzabelaGuarino-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="IzabelaGuarino-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="IzabelaGuarino-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="IzabelaGuarino-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="IzabelaGuarino-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="IzabelaGuarino-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  
 </div>
 
 ##
@@ -31,9 +41,12 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://api.whatsapp.com/send?phone=5531992226250" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/belaguarino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:izabelaguarino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/izabelaguarino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+
+
