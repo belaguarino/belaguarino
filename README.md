@@ -6,7 +6,7 @@
 - 👯 I love Sales and User Experience. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX, UI and I always start my projects with a FIGMA prototype before testing. <a href="https://www.figma.com/file/dtgf6oYR1xBiChkkN4UeWa/buildApp?node-id=0%3A1" target="_blank" >Here is an example</a> of a Figma prototype I created.
 - 💬 Ask me about **UX, UI, CSS, React, JavaScript, Wordpress**
 - 📫 How to reach me: **izabelaguarino@gmail.com**
-- 📄 I have 10+ years experience with Wordpress and Adobe Design Softwares. Get to know about my experiences at [https://belaguarino.github.io/](https://belaguarino.github.io/) and check a landing page I created using the best SEO techniques [https://hive.solutions](here.)
+- 📄 I have 10+ years experience with Wordpress and Adobe Design Softwares. Get to know about my experiences at [my portfolio](https://belaguarino.github.io/) and check a landing page I created using the best SEO techniques [here.](https://hive.solutions)
 - 😄 Pronouns: Her / She
 - 🤝 I’m looking for help with **TypeScript**
 - ⚡ Fun fact: I am extremely curious. With my sales & BizDev backgrounds, I learned to stay humble and ask the right questions. I speak Portuguese, English, Spanish, French and a little bit of Japanese.
