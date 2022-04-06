@@ -1,10 +1,10 @@
   <h1 align="center">Hi 👋, I'm Izabela!</h1>
 <h3 align="center">A passionate Product Manager from Brazil.</h3>
 
-
 - 🔭 I am a Product Manager by EBAC with a strong Business Development Background.
 - 🌱 I am a student at Trybe and I am currently working on backend (Node.js and TypeScript) projects.
-- 👯 I love Sales and User Experience. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX, UI and I always start my projects with a FIGMA prototype before testing.
+- 👯 I love Sales and User Experience. My main particularity is that I had a career on Brazilian's top startups such as Rock Content, Hotmart and Queima Diária. That is why I focus a lot on UX, UI and I always start my projects with a FIGMA prototype before testing. <a href="https://www.figma.com/file/dtgf6oYR1xBiChkkN4UeWa/buildApp?node-id=0%3A1" target="_blank">Here is an example</a> of a Figma prototype I created.
+
 - 💬 Ask me about **UX, UI, CSS, React, JavaScript, Wordpress**
 - 📫 How to reach me: **izabelaguarino@gmail.com**
 - 📄 I have 10+ years experience with Wordpress and Adobe Design Softwares. Know about my experiences [https://belaguarino.github.io/](https://belaguarino.github.io/)
